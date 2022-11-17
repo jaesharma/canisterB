@@ -5,6 +5,10 @@
     "canister_b": {
       "type": "motoko",
       "main": "src/main.mo"
+    },
+    "can_sub": {
+      "type": "motoko",
+      "main": "src/subfile.mo"
     }
   },
   "defaults": {
