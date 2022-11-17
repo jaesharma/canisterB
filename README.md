@@ -1,1 +1,1 @@
-# write-read POC - canister B
+# test canisters
