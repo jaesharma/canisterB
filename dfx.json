@@ -4,7 +4,7 @@
   "canisters": {
     "canister_b": {
       "type": "motoko",
-      "main": "src/main.mo"
+      "main": "src/main.xyz"
     },
     "can_sub": {
       "type": "motoko",
